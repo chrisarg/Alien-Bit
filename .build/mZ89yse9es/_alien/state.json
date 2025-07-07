@@ -1,0 +1,37 @@
+{
+   "args" : [
+      "root",
+      "_alien",
+      "meta_prop",
+      {}
+   ],
+   "install" : {
+      "complete" : {
+         "download" : 1
+      },
+      "download" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/mZ89yse9es/_alien/download__Jo3/Bit-main.zip",
+      "download_detail" : {
+         "/media/chrisarg/Software-Dev/Alien-Bit/.build/mZ89yse9es/_alien/download__Jo3/Bit-main.zip" : {
+            "protocol" : "https"
+         }
+      },
+      "download_rule" : "warn",
+      "mm" : {
+         "distname" : "Alien-Bit"
+      },
+      "patch" : null,
+      "prefix" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/mZ89yse9es/blib/lib/auto/share/dist/Alien-Bit",
+      "root" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/mZ89yse9es/_alien",
+      "stage" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/mZ89yse9es/blib/lib/auto/share/dist/Alien-Bit"
+   },
+   "plugin_instance" : {},
+   "runtime" : {
+      "alien_build_version" : "2.84",
+      "install_type" : "share",
+      "legacy" : {
+         "name" : "libbit"
+      },
+      "perl_module_version" : "0.01",
+      "prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit"
+   }
+}

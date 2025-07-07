@@ -1,0 +1,60 @@
+{
+   "args" : [
+      "root",
+      "_alien",
+      "meta_prop",
+      {}
+   ],
+   "install" : {
+      "_ab_build_ffi" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien/build_TR6Q/Bit-main",
+      "_ab_build_share" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien/build_dJtj/Bit-main",
+      "complete" : {
+         "download" : 1
+      },
+      "download" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien/download_I_HP/Bit-main.zip",
+      "download_detail" : {
+         "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien/download_I_HP/Bit-main.zip" : {
+            "protocol" : "https"
+         }
+      },
+      "download_rule" : "warn",
+      "extract" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien/build_dJtj/Bit-main",
+      "mm" : {
+         "distname" : "Alien-Bit"
+      },
+      "old" : {
+         "prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit",
+         "runtime" : {
+            "alien_build_version" : "2.84",
+            "install_type" : "share",
+            "legacy" : {
+               "finished_installing" : 1,
+               "install_type" : "share",
+               "name" : "libbit",
+               "original_prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit",
+               "version" : null
+            },
+            "perl_module_version" : "0.01",
+            "prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit"
+         }
+      },
+      "patch" : null,
+      "prefix" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/blib/lib/auto/share/dist/Alien-Bit",
+      "root" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/_alien",
+      "stage" : "/media/chrisarg/Software-Dev/Alien-Bit/.build/0rsBaanB7X/blib/lib/auto/share/dist/Alien-Bit"
+   },
+   "plugin_instance" : {},
+   "runtime" : {
+      "alien_build_version" : "2.84",
+      "install_type" : "share",
+      "legacy" : {
+         "finished_installing" : 1,
+         "install_type" : "share",
+         "name" : "libbit",
+         "original_prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit",
+         "version" : null
+      },
+      "perl_module_version" : "0.01",
+      "prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit"
+   }
+}
