@@ -1,3 +1,6 @@
-Alien-Bit-0.01.tar.gz
-Alien-Bit-0.02.tar.gz
-Alien-Bit-0.03.tar.gz
+# Solution to ignore various hidden files from stackoverflow
+# https://stackoverflow.com/questions/8021441/how-to-ignore-all-hidden-directories-files-recursively-in-a-git-repository
+
+/**/.*  # ignore all dotted files
+/**/.*/ # ignore all dotted folders
+!/.gitignore  # except `gitignore` :)
