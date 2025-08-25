@@ -1,0 +1,25 @@
+{
+   "args" : [
+      "root",
+      "_alien",
+      "meta_prop",
+      {}
+   ],
+   "install" : {
+      "download_rule" : "warn",
+      "mm" : {
+         "distname" : "Alien-Bit"
+      },
+      "patch" : null,
+      "prefix" : "/media/chrisarg/Software-Dev/perlmodules/Alien-Bit/.build/ONjOOB9DfD/blib/lib/auto/share/dist/Alien-Bit",
+      "root" : "/media/chrisarg/Software-Dev/perlmodules/Alien-Bit/.build/ONjOOB9DfD/_alien",
+      "stage" : "/media/chrisarg/Software-Dev/perlmodules/Alien-Bit/.build/ONjOOB9DfD/blib/lib/auto/share/dist/Alien-Bit"
+   },
+   "plugin_instance" : {},
+   "runtime" : {
+      "alien_build_version" : "2.84",
+      "install_type" : "share",
+      "perl_module_version" : "0.02",
+      "prefix" : "/home/chrisarg/perl5/perlbrew/perls/perl-5.38.0/lib/site_perl/5.38.0/x86_64-linux/auto/share/dist/Alien-Bit"
+   }
+}
