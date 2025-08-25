@@ -4,7 +4,7 @@ Alien::Bit - Find or install the Bit library
 
 # VERSION
 
-version 0.04
+version 0.05
 
 # SYNOPSIS
 
@@ -40,32 +40,23 @@ Perl modules.
 
 - [Bit::Fast](https://metacpan.org/pod/Bit::Fast)
 
-        Bit::Fast - A set of fast bit manipulation routines. It provides a population
-        count routine in Perl. In platforms with builtin popcount routines, it will
-        use them for better performance. Otherwise, it uses a tree-of-adders
-        algorithm, that is based entirely on bitmasks and shift operations. This is
-        likely to be slower than the Wilks Wheeler Gill algorithm in platforms that
-        have fast 64 bit multiplication operations.
-
-- [Bit::Fast](https://metacpan.org/pod/Bit::Fast)
-
-        Bit::Fast : is a set of fast bit manipulation routines. It provides a population
-        count routine in Perl. In platforms with builtin popcount routines, it will
-        use them for better performance. Otherwise, it uses a tree-of-adders
-        algorithm, that is based entirely on bitmasks and shift operations. This is
-        likely to be slower than the Wilks Wheeler Gill algorithm in platforms that
-        have fast 64 bit multiplication operations.
+    Bit::Fast - A set of fast bit manipulation routines. It provides a population
+    count routine in Perl. In platforms with builtin popcount routines, it will
+    use them for better performance. Otherwise, it uses a tree-of-adders
+    algorithm, that is based entirely on bitmasks and shift operations. This is
+    likely to be slower than the Wilks Wheeler Gill algorithm in platforms that
+    have fast 64 bit multiplication operations.
 
 - [Bit::Vector](https://metacpan.org/pod/Bit::Vector)
 
-        Efficient bit vector, set of integers and "big int" math library. It is a very
-        complete implementation of a bit vector with a different interface than Bit. 
-        It provides many more operations that the implementation of Bit does. 
+    Efficient bit vector, set of integers and "big int" math library. It is a very
+    complete implementation of a bit vector with a different interface than Bit. 
+    It provides many more operations that the implementation of Bit does. 
 
 - [Algorithm::BitVector](https://metacpan.org/pod/Algorithm::BitVector)
 
-        A memory efficient packed representation of arbitrary sized bit arrays and for 
-        logical and arithmetic operations on such arrays.
+    A memory efficient packed representation of arbitrary sized bit arrays and for 
+    logical and arithmetic operations on such arrays.
 
 - [Alien](https://metacpan.org/pod/Alien)
 
