@@ -1,1 +1,0 @@
-{"version":5,"vars":[{"line":3,"name":"$Alien","containerName":null,"kind":13},{"kind":2,"name":"warnings::Alien::Bit::Bit::VERSION","definition":1,"line":3},{"name":"parent","line":4,"containerName":"","kind":2}]}
