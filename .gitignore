@@ -3,4 +3,6 @@
 
 /**/.*  # ignore all dotted files
 /**/.*/ # ignore all dotted folders
+Alien-Bit-*   
+/Alien-Bit-*/
 !/.gitignore  # except `gitignore` :)
