@@ -4,7 +4,7 @@ Alien::Bit - Find or install the Bit library
 
 # VERSION
 
-version 0.08
+version 0.09
 
 # SYNOPSIS
 
